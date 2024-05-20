@@ -1,0 +1,2 @@
+# FiskeridirektoratetTest
+Programmerings Test fra fiskeridirektoratet
